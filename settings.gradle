@@ -1,0 +1,4 @@
+rootProject.name = 'SampleAPI'
+include 'OpenAPI'
+include 'sample'
+
